@@ -83,4 +83,4 @@ Uses **SQLite** by default (file-based — no server required).
 
 ## Author
 
-Arjun Vashishtha — `arjundroid12`
+Luvkush Singh
